@@ -117,8 +117,8 @@ hr{
 }
 .body-2{
     height: 50px;
-    width: 80%;
-    background-color:white;
+   width: 80%;
+   background-color: rgb(255, 255, 255);
     margin-left: 260px;
     top: 60px;
     position: fixed;
@@ -152,17 +152,17 @@ hr{
 }
 
 #body-3{
-  width: 100%;
+  width: 80%;
   margin-left: 20%;
   margin-top: 50px;
-  padding: 20px;
 }
 iframe{
  margin-top: 30px;
   width: 320px;
   height: 180px;
-  margin-left: 10px;
+  margin-left: 15px;
   border-radius: 10px;
+ 
 }
 
 
